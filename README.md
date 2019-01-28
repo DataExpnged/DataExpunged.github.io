@@ -60,7 +60,7 @@ this projects simulates a spider moving in random directs, to show a sort of lim
 
 Take a look at the entire project here:
 
-[https://www.khanacademy.org/computer-programming/spin-off-of-project-computational-creatures/59481179445329926](https://www.khanacademy.org/computer-programming/spin-off-of-project-computational-creatures/59481179445329926)
+[https://www.khanacademy.org/computer-programming/spin-off-of-project-computational-creatures/5948117944532992](https://www.khanacademy.org/computer-programming/spin-off-of-project-computational-creatures/5948117944532992)
 
 ### Summative: asteroids
 The summative of the course was a re-creaton for the arcade game "asteroids", the game involves many physics, mainly using acceleration. it is also very abject oriented, involving seperate asteroids, lasers and ship. my part in the project was to code the ship and present that.
