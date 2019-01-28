@@ -24,7 +24,7 @@ This project demonstrated new skill being developped in JS, as it involes object
 
 Take a look at the entire project here:
 
-[https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/450505369416499](https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/450505369416499)
+[https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4505053694164992](https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/4505053694164992)
 
 ### Magic 8-Ball
 this project, also in js, shows knowledge in randomly generated values, it uses this to randomly give the answer of the ball
