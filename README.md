@@ -69,7 +69,7 @@ The summative of the course was a re-creaton for the arcade game "asteroids", th
 
 Take a look at the entire project here:
 
-[https://editor.p5js.org/data_expunged/sketches/zEdq0rVn](https://editor.p5js.org/data_expunged/sketches/zEdq0rVn)
+[https://editor.p5js.org/data_expunged/sketches/zEdq0rVn2](https://editor.p5js.org/data_expunged/sketches/zEdq0rVn2)
 
 ## Plans for the future
 I never really considered my future with computer science, though I suppose i'd like to contine with the drawing and animation aspect to create animations and images for future employements, solidifying a solid skill for the entertainment industry
