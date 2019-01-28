@@ -12,6 +12,7 @@ I only took computer science of two years, so I did not learn many languages, th
 The travel website was one of the first projects i made on khan academy, it demonstrates knoledge of color, pictures, and different text sizes in html.
 
 Take a look at the entire project here:
+
 [https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5468268353323008](https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5468268353323008)
 
 ### Animal attack:
